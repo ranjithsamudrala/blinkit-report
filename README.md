@@ -48,4 +48,41 @@ Here’s a walkthrough video of the interactive Power BI report in action:
 ---
 
 ## 📁 File Structure
+Blinkit-PowerBI-Project/
+│
+├── Dataset/
+│ └── blinkit_data.csv
+│
+├── PowerBI_Report/
+│ └── Blinkit_Interactive_Report.pbix
+│
+├── Images/
+│ ├── dashboard_overview.png
+│ ├── product_analysis.png
+│ └── customer_insights.png
+│
+└── README.md
+
+---
+
+## ▶️ How to Run
+
+1. Clone or download this repository.
+2. Open `Blinkit_Interactive_Report.pbix` using **Power BI Desktop**.
+3. Explore the dashboard, interact with slicers, and navigate through the report pages.
+
+---
+
+## 🙌 Connect With Me
+
+Feel free to reach out if you have feedback or want to collaborate:
+
+📧 **Email**: ranjithsamudrala009@gmail.com  
+🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+⭐️ *If you found this project helpful, give it a star on GitHub!*
+
+
 
