@@ -18,13 +18,11 @@ This project presents an interactive Power BI report built on Blinkit (quick com
 ## 📷 Dashboard Screenshots
 
 ### 🧭 Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/ranjithsamudrala/images/blob/main/blinkit1.png)
 
 ### 📦 Product Analysis
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](https://github.com/ranjithsamudrala/images/blob/main/blinkit2.jpg)
 
-### 👥 Customer Insights
-![Customer Insights](images/customer_insights.png)
 
 ---
 
