@@ -30,7 +30,7 @@ This project presents an interactive Power BI report built on Blinkit (quick com
 
 Here’s a walkthrough video of the interactive Power BI report in action:
 
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Video]([https://github.com/ranjithsamudrala/images/blob/main/_Blinkit_%20Poster%20Perfection%20Unleashed%20-%20See%20the%20Spark!_.jpg])(https://youtu.be/wnw0hrUAnZc)
 
 > 🔁 *Click the image to play the video in a new tab.*
 
