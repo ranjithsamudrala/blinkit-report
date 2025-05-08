@@ -49,19 +49,16 @@ Here’s a walkthrough video of the interactive Power BI report in action:
 
 ## 📁 File Structure
 Blinkit-PowerBI-Project/
-│
 ├── Dataset/
-│ └── blinkit_data.csv
-│
+│   └── blinkit_data.csv
 ├── PowerBI_Report/
-│ └── Blinkit_Interactive_Report.pbix
-│
+│   └── Blinkit_Interactive_Report.pbix
 ├── Images/
-│ ├── dashboard_overview.png
-│ ├── product_analysis.png
-│ └── customer_insights.png
-│
+│   ├── dashboard_overview.png
+│   ├── product_analysis.png
+│   └── customer_insights.png
 └── README.md
+
 
 ---
 
@@ -78,7 +75,7 @@ Blinkit-PowerBI-Project/
 Feel free to reach out if you have feedback or want to collaborate:
 
 📧 **Email**: ranjithsamudrala009@gmail.com  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+🔗 **LinkedIn**: [www.linkedin.com/in/ranjithsamudrala009](https://www.linkedin.com/in/ranjithsamudrala009/)
 
 ---
 
